@@ -1,0 +1,19 @@
+- CRUD API using Lambda & Dynamodb, pagination
+- RDS DB CRUD API using Flask, Boto3 database creation
+
+Flask -> As a Backend Developer with little frontend
+Django -> Build a full fleged website, as a Full stack Developer
+
+REST API - 30s
+API -> FaaS/Microservices <= 15mins
+Frontend -> React/Vue/Swelte -> JS Frameworks
+
+Decoupled Architecture 
+
+SSR -> Flask, Django
+CSR -> React, Vue
+
+Console
+CLI 
+SDK -> Python (Boto3)
+APIS 

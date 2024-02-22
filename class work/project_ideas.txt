@@ -1,0 +1,45 @@
+- Build CRUD APIs
+    - deploy a DB in AWS/GCP
+    - create API -> lambda -> Python
+
+- Google APIs
+
+- spin up an RDS instance using python
+    - monitor the usuage the compute usuage
+        - sending email when crossing a threshold
+
+- whatsapp spammer
+
+- ToDo App
+- password generator
+- tell me a fact, quote of the day
+
+- cli -> file organizer, bulk renames
+
+- betrand -> create general users and provide them unique ids
+- karthik -> AWS pagination
+- santhosh -> finance & social media
+- firoz -> db, schedular
+
+=> connect RDS db 
+
+firoz_1.png
+firoz_2.png
+firoz_3.png
+firoz_4.png
+
+- API
+- AWS/Boto3 - 2
+
+Personal Finance Tracker: Create a program that helps users track their income and expenses over time, and generates reports to help them better understand their spending habits.
+
+Social Media Analyzer: Create a program that analyzes social media data (e.g. Twitter, Facebook, Instagram) to identify trending topics, sentiment analysis, and other insights.
+
+
+API 
+    Flask - 3
+        -> SSR, APIs 
+        -> Web Based library
+        -> host it on your own -> EC2
+    AWS - 1
+        -> lambda -> API Gateway 
